@@ -1,7 +1,6 @@
-# ILI9225 (and OTM2201A) Basic Library for PIC
+# ILI9225 (and OTM2201A) Basic Library for ESP32
 
-This is a simple, cut-down library for the ILI9225 (and OTM2201A) LCD controller chips. Tested for use on the PIC18F26K42, however it is designed
-to be easily ported to other microcontrollers.<br>
+This is a simple, cut-down library for the ILI9225 (and OTM2201A) LCD controller chips. Tested for use on the ESP32, however it is designed to be easily ported to other microcontrollers.<br>
 
 * This project uses documentation provided by some random eBay seller. License unknown, credited in code.
 
