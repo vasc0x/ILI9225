@@ -13,10 +13,7 @@
  */
 
 
-#include <xc.h>
 #include "ILI9225.h"
-
-
 
 /*
  * Writes a byte to SPI without changing chip select (CSX) state.
